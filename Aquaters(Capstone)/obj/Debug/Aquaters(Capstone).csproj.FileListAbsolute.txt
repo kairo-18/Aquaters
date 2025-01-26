@@ -1,0 +1,29 @@
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\bin\Debug\Aquaters(Capstone).exe.config
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\bin\Debug\Aquaters(Capstone).exe
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\bin\Debug\Aquaters(Capstone).pdb
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.AssemblyReference.cache
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.SuggestedBindingRedirects.cache
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.Aquaters.resources
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.Properties.Resources.resources
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.GenerateResource.cache
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.CoreCompileInputs.cache
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).exe
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).pdb
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.Order.resources
+C:\Users\Charles Jefferon\OneDrive\Documents\GitHub\ComputerProgramming3\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.Product.resources
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.AssemblyReference.cache
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.SuggestedBindingRedirects.cache
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).exe
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).pdb
+D:\Aquaters(Capstone)\Aquaters(Capstone)\bin\Debug\Aquaters(Capstone).exe.config
+D:\Aquaters(Capstone)\Aquaters(Capstone)\bin\Debug\Aquaters(Capstone).exe
+D:\Aquaters(Capstone)\Aquaters(Capstone)\bin\Debug\Aquaters(Capstone).pdb
+D:\Aquaters(Capstone)\Aquaters(Capstone)\bin\Debug\MySql.Data.dll
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.Aquaters.resources
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.Order.resources
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.Product.resources
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.Properties.Resources.resources
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.GenerateResource.cache
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.CoreCompileInputs.cache
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters(Capstone).csproj.CopyComplete
+D:\Aquaters(Capstone)\Aquaters(Capstone)\obj\Debug\Aquaters_Capstone_.PersonalInfo.resources
